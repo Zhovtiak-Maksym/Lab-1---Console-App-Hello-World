@@ -1,1 +1,8 @@
 # Lab-1---Console-App-Hello-World
+
+
+### Опис README.md :
+
+- Запуск проєкту : dotnet run
+
+- Щоб файл був готовим до дистриб'юції : git add . , git commit -m "some coments"  , git push -u origin main
